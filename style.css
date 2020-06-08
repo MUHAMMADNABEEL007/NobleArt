@@ -1,0 +1,91 @@
+body{
+    background-image: url(images/bg.png);
+    background-repeat: repeat;
+}
+.navbar{
+    background-color: #000 !important;
+}
+.bottom-line{
+    height:2px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+ul>li>a{
+    color: #ffffff !important;
+}
+.dropdown-menu{
+    background-color: #000 !important;
+}
+.navbar-nav a{
+    color: rgb(230, 225, 225) !important;
+}
+.navbar-nav a:active{
+color: white !important;
+background-color: #000 !important;
+text-shadow: 0px 0px 5px #64E0EF ,0px 0px 7px #97FFFF ,0px 0px 10px #7DD5D9 !important;
+}
+.navbar-nav a:hover{
+    color: white !important;
+}
+.nav-link a:link{
+    background-color: black !important;
+    color: #ffffff !important;
+}
+.nav-link a:hover{
+    background-color: black !important;
+    color: #ffffff !important;
+    
+}
+.nav-link a:focus{
+    background-color: black !important;
+    color: #ffffff !important;
+}
+.dropdown-menu a:hover{
+    background-color: black !important;
+    color: #ffffff !important;
+}
+.dropdown-menu a:focus{
+    background-color: black !important;
+    color: #ffffff !important;
+}
+.nav-item a>i{
+font-size: 30px;
+}
+.card{
+    box-shadow: 0px 0px 10px 2px rgb(124, 124, 124);
+}
+form{
+    background-color:#F1F3F4;
+    padding: 10px;
+}
+footer{
+    width: 100%;;
+    background-image: linear-gradient(rgb(255, 255, 255,0.8),rgb(0, 183, 255));
+    padding: 50px 0px 0px 0px;
+    margin: 0px;
+}
+.top{
+    color: rgb(255, 255, 255);
+    font-size:30px!important;
+    float: right !important;
+    padding: 5px;
+}
+.footer-contact{
+    color: rgb(0, 16, 85);
+    font-weight: bold;
+}
+.fa{
+    font-size: 30px !important;
+}
+.card{
+    margin: 0px;
+    padding: 0px;
+}
+.social{
+    margin: 10px;
+}
+.copyright{
+    color: white;
+    text-align:center !important;
+    margin:auto;
+    
+}
